@@ -1,2 +1,6 @@
 # camhunter-repo
-Local network camera discovery tool and hacking tool
+Package: camhunter
+Version: 1.0
+Architecture: all
+Maintainer: dime
+Description: Local network camera discovery tool
