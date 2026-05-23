@@ -1,0 +1,17 @@
+Date: Sat, 23 May 2026 15:19:18 +0000
+MD5Sum:
+ 404350aa4a662f978ef2637aef979f3a               38 Release
+ 6844eec53bed08324824548a6275b51f              404 main/binary-aarch64/Packages
+ a82f02e98a4bf6b8d4e9e7e633104b69              314 main/binary-aarch64/Packages.gz
+SHA1:
+ df539e25a23cbcafe9e5687ce5dcc2613b039f8c               38 Release
+ 89111148a5606f9facca86a9c462af5fed0a1e65              404 main/binary-aarch64/Packages
+ c946630443944dbcfa764a357278aa619bb9a7a6              314 main/binary-aarch64/Packages.gz
+SHA256:
+ 201c84311b6e7cd2965f1b07a3b8f97742447ddb667c2c37e98696900178c371               38 Release
+ ce1df894e694b50a9e2d46808e9ab31e00631766899c97e87da8e09e0bee18d4              404 main/binary-aarch64/Packages
+ fc6e51c4b01ba8171657fa836007ccfdac5e6443136b00b307ac850d7f673df3              314 main/binary-aarch64/Packages.gz
+SHA512:
+ 591e443e410d4a3a3ba384e94dcc66c0c08d0fc4d8ff3fa02f8a1b1b09e1db9424fc0664bd1f0e9e87fcc8bc20959b9f56c31d90fdeee3b614c13a9172d79c9c               38 Release
+ 7bbfe02c07643081a23f4e4d47e38ca803ed4234293e459e150a038ae5d0be884a90569e51a75cfdfc7cddbb1088f000d0a482849660d2adf7f39c023deacf77              404 main/binary-aarch64/Packages
+ 96fad7a4f570856a7bd350f692add824a24507e10eb0104d02320c8f0152a6673436a3277672f08bb59d461854ff2838d1fcbbe2a47dfce785850ff098abf8e6              314 main/binary-aarch64/Packages.gz

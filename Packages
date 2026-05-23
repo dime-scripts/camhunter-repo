@@ -1,0 +1,13 @@
+Package: camhunter
+Version: 1.0
+Architecture: aarch64
+Maintainer: dime
+Installed-Size: 37
+Filename: public/pool/main/camhunter_1.0_aarch64.deb
+Size: 9248
+MD5sum: fd9153b941c10e86e75311b3ecc5ed2b
+SHA1: ef2213a41bf831fc06d88546266e2e4a02305f1c
+SHA256: 6194b2c8606d1e1d5c82bbc2ad78b9c57f3bed305d788f08ec50f6713436caf6
+Homepage: https://github.com/dime-scripts/camhunter-repo
+Description: CamHunter package
+
