@@ -38,15 +38,15 @@ https://github.com/dime-scripts/camhunter-repo
 ---
 ## Install termux (android/ios/samusng support all-in-one tutorial)
 
-# first you will need to install termux, do that by going to play market and searching for termux.
+first you will need to install termux, do that by going to play market and searching for termux.
 ```link
 https://play.google.com/store/apps/details?id=com.termux&hl=en&pli=1
 ```
-# the recomended way is if you install the f-droid version, go-to:
+the recomended way is if you install the f-droid version, go-to:
 ```link
 https://f-droid.org/F-Droid.apk
 ```
-# To download it
+To download it
 
 then in the f-droid app search for termux and download it from there
 and you will be done!
